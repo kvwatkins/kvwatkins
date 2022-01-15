@@ -2,7 +2,7 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[kwdev](https://www.kwdev.io/)
+[Personal Website](https://www.kwdev.io/)
 
 
 - 👀 I’m interested in ...
