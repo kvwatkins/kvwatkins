@@ -4,11 +4,8 @@
 
 [Personal Website](https://www.kwdev.io/)
 
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning - Programing Language Theory with Agda
+- 📫 How to reach me - Linkedin is the best way
 
 <!---
 kvwatkins/kvwatkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
