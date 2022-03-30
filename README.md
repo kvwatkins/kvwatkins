@@ -1,11 +1,12 @@
 <div id="top"></div>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+### Proud Supporter of 
+- [Haskell Foundation](https://haskell.foundation/)
+- [F# Software Foundation](https://fsharp.org/)
 
-[Personal Website](https://www.kwdev.io/)
-
-- 🌱 I’m currently learning - Programing Language Theory with Agda
-- 📫 How to reach me - Linkedin is the best way
+### Contact Info 
+- [![LinkedIn][linkedin-shield]][linkedin-url]
+- Email - Kenny@kwdev.io
 
 <!---
 kvwatkins/kvwatkins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
