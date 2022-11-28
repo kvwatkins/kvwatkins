@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kenneth-watkins-34526913b/
+[linkedin-url]: https://www.linkedin.com/in/kennywatkins/
